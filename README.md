@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Amanda Oliveira da Silva 
+Matricula: 00904102
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Printinspeção](PrintFerramentasDesenvolvedor.jpg)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![PrintReplit](PrintReplit.jpg)
 
 
 ## Orientações sobre Linguagem MarkDown
